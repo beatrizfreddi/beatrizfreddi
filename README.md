@@ -1,5 +1,5 @@
 ### ei 👋
-🔭 sou uma Product Owner de Chatbots estudando programação :) 🌱
+🔭 sou uma Product Owner de Chatbots estudando Banco de Dados :) 🌱
 
 <div align="center">
   <a href="https://github.com/beatrizfreddi">
